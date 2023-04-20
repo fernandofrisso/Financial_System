@@ -1,46 +1,86 @@
-# Getting Started with Create React App
+# :chart_with_upwards_trend: Financial System
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Sistema desenvolvido com a finalidade de criar um sistema onde é possível controlar os seus gastos de modo que seja viável adicionar lucros e despesas.
 
-## Available Scripts
+## Sumário
 
-In the project directory, you can run:
+* [Começando](#Começando)
+* [Pré-requisitos](#Pré-requisitos)
+* [Instalação](#Instalação)
+* [Stack desenvolvimento](#Stack-desenvolvimento)
+* [Funcionalidades](#Funcionalidades)
+* [Contato](#Contato)
 
-### `npm start`
+## Começando
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+As instruções a seguir irão proporcionar uma cópia deste projeto e de como rodar na sua máquina local para propósito de desenvolvimento e testes. Veja na sessão de [deployment](#Deployment) para saber com mais detalhes de como utilizar na sua aplicação.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Pré-requisitos
 
-### `npm test`
+Dependências necessárias para utilizar a aplicação.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Necessário que tenha Node.js instalado na sua máquina. Para verificar, rode o seguinte comando:
 
-### `npm run build`
+```bash
+$ node -version
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2. Necessário ter o npm também. Verifique através do comando:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+$ npm -version
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### Instalação
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Para rodar a aplicação, execute os próximos passos:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. Faça o clone do projeto:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+```bash
+$ git clone https://github.com/fernandofrisso/Financial_System.git
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+2. Entre na pasta do projeto:
 
-## Learn More
+```bash
+$ cd Financial_System
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+3. Baixar as Dependências
+
+```bash
+$ npm install
+```
+
+4. Feito todos os passos acima você terá o seu projeto disponível em http://localhost:3000
+
+## Stack desenvolvimento
+
+* [Typescript](https://www.typescriptlang.org/) - Linguagem principal
+* [React.js](https://legacy.reactjs.org/) - Framework web
+* [npm](https://www.npmjs.com/) - Gerenciador dependências
+
+## Funcionalidade
+Abaixo estão as funcionalidades disponíves do Financial System. 
+
+:heavy_check_mark: Controle de despesas e lucros;
+
+:heavy_check_mark: Possibilidades de adicionar despesas e lucros de acordo com uma determinada classificação.
+
+## Contato
+
+Vocêe pode entrar em contato através do [linkedin](https://www.linkedin.com/in/fernandofariasfrisso/) ou pelo E-mail: fernandofrisso@outlook.com
+
+
+![image](https://user-images.githubusercontent.com/90481444/233393773-f5bd9c69-0d64-4bd0-8d54-ca38844cd3d6.png)
+
+![image](https://user-images.githubusercontent.com/90481444/233393895-76845865-49c2-471c-af31-372351eeaf4c.png)
+
+
+
+
+
+
