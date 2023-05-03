@@ -70,14 +70,16 @@ Abaixo estão as funcionalidades disponíves do Financial System.
 
 :heavy_check_mark: Possibilidades de adicionar despesas e lucros de acordo com uma determinada classificação.
 
+![image](https://user-images.githubusercontent.com/90481444/233393773-f5bd9c69-0d64-4bd0-8d54-ca38844cd3d6.png)
+
+![image](https://user-images.githubusercontent.com/90481444/233393895-76845865-49c2-471c-af31-372351eeaf4c.png)
+
 ## Contato
 
 Vocêe pode entrar em contato através do [linkedin](https://www.linkedin.com/in/fernandofariasfrisso/) ou pelo E-mail: fernandofrisso@outlook.com
 
 
-![image](https://user-images.githubusercontent.com/90481444/233393773-f5bd9c69-0d64-4bd0-8d54-ca38844cd3d6.png)
 
-![image](https://user-images.githubusercontent.com/90481444/233393895-76845865-49c2-471c-af31-372351eeaf4c.png)
 
 
 
